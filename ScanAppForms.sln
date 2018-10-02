@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanAppForms.Android", "ScanAppForms\ScanAppForms.Android\ScanAppForms.Android.csproj", "{2ECD71B0-3F8C-4BD1-8CA4-642B8BA76CA8}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ScanAppForms", "ScanAppForms\ScanAppForms\ScanAppForms.shproj", "{CF76492F-EA5A-4D0B-B48B-4D8F56C506B8}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ScanAppForms\ScanAppForms\ScanAppForms.projitems*{2ecd71b0-3f8c-4bd1-8ca4-642b8ba76ca8}*SharedItemsImports = 4
+		ScanAppForms\ScanAppForms\ScanAppForms.projitems*{cf76492f-ea5a-4d0b-b48b-4d8f56c506b8}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ECD71B0-3F8C-4BD1-8CA4-642B8BA76CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECD71B0-3F8C-4BD1-8CA4-642B8BA76CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECD71B0-3F8C-4BD1-8CA4-642B8BA76CA8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2ECD71B0-3F8C-4BD1-8CA4-642B8BA76CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECD71B0-3F8C-4BD1-8CA4-642B8BA76CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ECD71B0-3F8C-4BD1-8CA4-642B8BA76CA8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82422DD7-19E1-435E-88F2-EB21AF585D7A}
+	EndGlobalSection
+EndGlobal
